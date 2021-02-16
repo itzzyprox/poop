@@ -1,0 +1,23 @@
+{
+
+    "login": { 
+     
+        "token": "ODEwOTQ5Nzk4NzY0MDg1MzI4.YCrF2g.upzQGk580mQ4fLci4wX-8m3frBs"
+
+    },
+    "bot": { 
+        "owner": "722146929038852196",
+        "dev": [
+            "<@722146929038852196>"
+          
+        ],
+
+        
+        "clientid": "791985363744587786",
+         "version": "1.0.1",
+         "support": "❌",
+         "image": "https://image.noelshack.com/fichiers/2019/08/7/1551034236-dbs-broly-gogeta-base-form.gif",
+         "fhouther" : "ζ͜͡Deltabot"
+
+    }
+}
